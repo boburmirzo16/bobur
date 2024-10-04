@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "proyuk",
+			"path": "."
+		},
+		{
+			"name": "img",
+			"path": "../img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "img"
+	}
+}

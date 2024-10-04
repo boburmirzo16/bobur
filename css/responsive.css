@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+  .header .navigation .navbar .navbarNav a {
+    display: none;
+  }
+  .header .banner .banner__content h1 {
+    font-size: 3rem;
+  }
+  .blog__content, .design__content, .about__content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}/*# sourceMappingURL=responsive.css.map */
